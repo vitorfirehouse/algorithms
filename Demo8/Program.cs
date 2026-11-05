@@ -15,7 +15,7 @@
 
             balance = balance + AmountToDeposit;
 
-            //Console.ReadKey();
+            Console.ReadKey();
             Console.Clear();
 
             Console.WriteLine($"Your current balance is {Math.Round(balance, 2)}");

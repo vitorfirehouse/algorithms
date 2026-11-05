@@ -16,7 +16,7 @@
             string firstName, lastName;
 
             // Data Input 
-            Console.Write("Whats your first name:");
+            Console.Write("Whats your first name:")
             firstName = Console.ReadLine();
             Console.WriteLine("What about your last name");
             lastName = Console.ReadLine();
